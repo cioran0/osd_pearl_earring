@@ -1,0 +1,40 @@
+#main-viewer {
+    position: relative;
+    width: 800px;
+    height: 600px;
+}
+
+#nav-viewer {
+    position: absolute;
+    width: 200px;
+    height: 150px;
+    right: 0;
+    bottom: 0;
+    z-index: 10;
+    background: black;
+    overflow: hidden;
+}
+
+.selection {
+    position: absolute;
+    border: 1px solid red;
+    z-index: 20;
+}
+
+.img-txt{
+    max-width: 800px;
+}
+.att{
+    color: #E50808;
+}
+.placard
+{
+    border-style: groove;
+    border-color: #53565a;
+}
+
+.plactext
+{
+    margin-left: 5%;
+    margin-right: 5%;
+}

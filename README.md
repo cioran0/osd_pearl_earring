@@ -7,4 +7,4 @@ Used VIPS to slice DZI https://www.libvips.org/ `vips dzsave GirlPearl.jpg a1dzi
 
 Placeholder used for DZI tiles folder, too large for github. It's 16 folders starting at zero. Valid .dzi file is there
 
-Video demo in root directory videodemo.mp4 - in brave web browser running on localhost. Chrome demo screenshots in screenshots directory
+Video demo in root directory video_demo.mp4 - in brave web browser running on localhost. Chrome demo screenshots in screenshots directory
